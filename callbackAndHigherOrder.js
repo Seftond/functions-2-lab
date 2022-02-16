@@ -271,4 +271,4 @@ console.log(addTen(4))
 
 // CODE HERE
 let addSeven = addingFactory(7)
-console.log(addSeven(7))
+console.log(addSeven(99))
